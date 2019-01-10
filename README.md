@@ -1,4 +1,6 @@
 # Candy Fighter
+![alt text](fight_3.png "Screenshot")
+
 Candy Fighter is the cutest yet addictive and exciting two-player real time game. It is the greatest game for all ages of people to pass some time with your friend.
 
 You are in the lush garden of Fairy Land and you are engaged with your friend in a candy fight. Outsmart your friend with your quick thinking and deadly aim. Throw candies at your friend and dodge candies thrown at you. The last person standing wins!!
